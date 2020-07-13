@@ -1,17 +1,15 @@
 ### Hi there 👋 
   
 - 🔭 I’m currently working on [Athena](https://github.com/jbjulia/athena/).
-- 🌱 I’m currently learning Ruby.
-- 💬 Ask me about Python.
+- 🌱 I’m currently learning [Ruby](https://www.ruby-lang.org/en/).
+- 💬 Ask me about [Python](https://www.python.org/).
 - 📫 How to reach me: 
->> joseph.b.julian@gmail.com  
->> jbjulia@nsa.ic.gov
+  >> joseph.b.julian@gmail.com  
+  >> jbjulia@nsa.ic.gov
   
-Now Playing: &nbsp;&nbsp;&nbsp; *Sugar, We're Going Down - Fall Out Boy*  
+Now Playing: &nbsp;&nbsp; *Sugar, We're Going Down - Fall Out Boy*  
 
-1:05  ───🔘────── 3:50 🔊  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⏮ &nbsp; ⏸ &nbsp; ⏭
+1:05  ───🔘────── 3:50 🔊 &nbsp;&nbsp; ⏮ &nbsp; ⏸ &nbsp; ⏭
 
 <!--
 **jbjulia/jbjulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
