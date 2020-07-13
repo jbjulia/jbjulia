@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Now Playing: &nbsp;&nbsp;&nbsp;&nbsp; *Sugar, We're Going Down - Fall Out Boy*
+
+1:05  ───🔘────── 3:50 🔊  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⏮ &nbsp; ⏸ &nbsp; ⏭
+
 <!--
 **jbjulia/jbjulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
