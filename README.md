@@ -1,6 +1,13 @@
-### Hi there 👋
-
-Now Playing: &nbsp;&nbsp;&nbsp;&nbsp; *Sugar, We're Going Down - Fall Out Boy*
+### Hi there 👋 
+  
+- 🔭 I’m currently working on [Athena](https://github.com/jbjulia/athena/).
+- 🌱 I’m currently learning Ruby.
+- 💬 Ask me about Python.
+- 📫 How to reach me: 
+>> joseph.b.julian@gmail.com  
+>> jbjulia@nsa.ic.gov
+  
+Now Playing: &nbsp;&nbsp;&nbsp; *Sugar, We're Going Down - Fall Out Boy*  
 
 1:05  ───🔘────── 3:50 🔊  
   
