@@ -2,7 +2,7 @@
   
 - 🔭 I’m always working on [Athena](https://github.com/jbjulia/athena/).
 - 🌱 I’m currently learning [Ruby](https://www.ruby-lang.org/en/).
-- 👯 I’m looking to collaborate on [Escape Sequence](https://github.com/jbjulia/escape-sequence/).
+- 👯 I’m looking to collaborate on [EsCape Sequence](https://github.com/jbjulia/escape-sequence/).
 - 💬 Ask me about [Python](https://www.python.org/).
 - 📫 How to reach me: 
   >> joseph.b.julian@gmail.com  
