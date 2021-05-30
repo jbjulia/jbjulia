@@ -8,9 +8,9 @@
   >> joseph.b.julian@gmail.com  
   >> jbjulia@nsa.ic.gov
   
-Now Playing: &nbsp;&nbsp; *Sugar, We're Going Down - Fall Out Boy*  
+Now Playing: &nbsp;&nbsp; *Jocko Podcast 3: Jocko & Echo (The Last Hundred Yards , Jiu Jitsu, Bosses, Failure)*  
 
-1:05  ───🔘────── 3:50 🔊 &nbsp;&nbsp; ⏮ &nbsp; ⏸ &nbsp; ⏭
+⏸️ ⏭️ 🔊 &nbsp;1:45:14 ────────⚪─ 1:48:55
 
 <!--
 **jbjulia/jbjulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
